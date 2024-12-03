@@ -4,10 +4,15 @@
   <tr>
     <td>
       <h3>Hi there! 👋</h3>
-      <p>I'm <strong>Jannatul Nayeem</strong>, a <strong>Computer Science</strong> student passionate about <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Web Development</strong>. I’m constantly exploring new technologies to solve real-world problems and drive innovation. My goal is to bridge the gap between <strong>software development</strong> and <strong>AI</strong> to build impactful, user-centered solutions. I'm always excited to collaborate and learn from like-minded individuals who are as enthusiastic about technology as I am.</p>
+      <p>I'm <strong>Jannatul Nayeem</strong>, a <strong>Computer Science</strong> student with a passion for <strong>healthcare</strong> and <strong>technology</strong>. My journey           began in the hospital, where I saw how technology transforms patient care.</p>
+
+      <p>Now, I’m bridging my expertise in <strong>healthcare</strong> with my love for <strong>software engineering</strong>, aiming to create innovative, user-friendly solutions for         real-world challenges.</p>
+
+      <p>With experience in <strong>Machine Learning</strong>, <strong>Web Development</strong>, and <strong>Data Analysis</strong>, I’m driven to craft purposeful software that              impacts lives and builds a healthier, more connected world.</p>
+
     </td>
     <td>
-      <img src="profile.png" alt="Profile Image" width="150">
+      <img src="IMG_1468.jpeg" alt="Profile Image" width="150">
     </td>
   </tr>
 </table>
