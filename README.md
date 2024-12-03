@@ -1,9 +1,16 @@
 # Jannatul Nayeem
 
-<img src="IMG_1468.jpeg" alt="Profile Image" width="150">
-
-Hi there! 👋  
-I'm **Jannatul Nayeem**, a **Computer Science** student passionate about **Machine Learning**, **Data Science**, and **Web Development**. I’m constantly exploring new technologies to solve real-world problems and drive innovation. My goal is to bridge the gap between **software development** and **AI** to build impactful, user-centered solutions. I'm always excited to collaborate and learn from like-minded individuals who are as enthusiastic about technology as I am.
+<table>
+  <tr>
+    <td>
+      <h3>Hi there! 👋</h3>
+      <p>I'm <strong>Jannatul Nayeem</strong>, a <strong>Computer Science</strong> student passionate about <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Web Development</strong>. I’m constantly exploring new technologies to solve real-world problems and drive innovation. My goal is to bridge the gap between <strong>software development</strong> and <strong>AI</strong> to build impactful, user-centered solutions. I'm always excited to collaborate and learn from like-minded individuals who are as enthusiastic about technology as I am.</p>
+    </td>
+    <td>
+      <img src="profile.png" alt="Profile Image" width="150">
+    </td>
+  </tr>
+</table>
 
 ---
 
