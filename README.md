@@ -36,7 +36,7 @@ Here are some of my most significant projects:
 **Technologies**: React, Firebase, Material UI, Python  
 A **real-time inventory management system** with dynamic, reusable components. It integrates **Firebase** for managing distributed data and automates **stock predictions** to optimize resource management.
 
-### [**Bias Analysis in AI Models**](https://github.com/jannatulnayeem964/BiasAnalysisAI)  
+### [**Bias Analysis in AI Models**](https://github.com/BTT-Relativity1B/Main.git) 
 **Technologies**: Python, LangTest, Sentiment Analysis  
 A project focused on **analyzing socioeconomic bias** in AI models, using sentiment analysis combined with factors like **gender**, **names**, and **emotion**. I identified issues with sentiment misclassification, providing insights into areas for improvement in model fairness.
 
@@ -48,7 +48,7 @@ Developed machine learning models to predict **confidence in national government
 
 ## 🌱 Extracurriculars, Hobbies & Interests
 
-When I'm not coding, I enjoy participating in community-driven initiatives like **CodePath**, where I mentored 200+ students in **web development**. I also have a deep interest in **AI ethics**, and I enjoy exploring how AI and machine learning can be used to improve society. Outside of tech, I love hiking, reading about new innovations, and exploring new tech podcasts!
+When I'm not coding, I enjoy participating in community-driven initiatives like **CodePath**, where I mentored 200+ students in **web development**. I also have a deep interest in **AI ethics**, and I enjoy exploring how AI and machine learning can be used to improve society. Outside of tech, I love painting, pottery, and reading books!
 
 ---
 
@@ -60,7 +60,9 @@ Feel free to reach out to me through any of the following:
 - **GitHub**: [github.com/jannatulnayeem964](https://github.com/jannatulnayeem964)
 - **Email**: [jannatul.nayeem@email.com](mailto:jannatul.nayeem@email.com)
 
+<!-- Include Open-Source Section, Awards, Achievements or Certifications, and Other “must knows” that highlight your skills, experience, or knowledge! -->
 ---
+✨ **My Website**: [https://jannatulnayeem.netlify.app](https://jannatulnayeem.netlify.app)
 
-![Tools](tools-image.png)
+[![Jannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannatulnayeem964)](https://github.com/jannatulnayeem964/github-readme-stats)
 
