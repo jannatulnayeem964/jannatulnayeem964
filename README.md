@@ -9,7 +9,7 @@
       <p>With experience in <strong>Machine Learning</strong>, <strong>Web Development</strong>, and <strong>Data Analysis</strong>, I’m driven to craft purposeful software that              impacts lives and builds a healthier, more connected world.</p>
     </td>
     <td>
-      <img src="IMG_1468.jpeg" alt="Profile Image" width="150">
+      <img src="IMG_1468.jpeg" alt="Profile Image" width="200">
     </td>
   </tr>
 </table>
