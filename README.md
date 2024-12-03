@@ -32,13 +32,13 @@ Here are the technologies and tools I work with:
 
 Here are some of my most significant projects:
 
+### [**Evaluating Frontier Models for Performance and Representation**]() 
+**Technologies**: Python, LangTest, Sentiment Analysis  
+Check out my team's project repository for the real-world ML project we worked on for Relativity for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! A project focused on **analyzing socioeconomic bias** in AI models, using sentiment analysis combined with factors like **gender**, **names**, and **emotion**. My team and I identified issues with sentiment misclassification, providing insights into areas for improvement in model fairness. 
+
 ### [**Inventory Management App**](https://github.com/jannatulnayeem964/inventory-management-app)  
 **Technologies**: React, Firebase, Material UI, Python  
 A **real-time inventory management system** with dynamic, reusable components. It integrates **Firebase** for managing distributed data and automates **stock predictions** to optimize resource management.
-
-### [**Bias Analysis in AI Models**](https://github.com/BTT-Relativity1B/Main.git) 
-**Technologies**: Python, LangTest, Sentiment Analysis  
-A project focused on **analyzing socioeconomic bias** in AI models, using sentiment analysis combined with factors like **gender**, **names**, and **emotion**. I identified issues with sentiment misclassification, providing insights into areas for improvement in model fairness.
 
 ### [**Country Confidence Model**](https://github.com/jannatulnayeem964/CountryConfidenceModel)  
 **Technologies**: Python, scikit-learn, Matplotlib  
