@@ -64,5 +64,5 @@ Feel free to reach out to me through any of the following:
 ---
 ✨ **My Website**: [https://jannatulnayeem.netlify.app](https://jannatulnayeem.netlify.app)
 
-[![Jannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannatulnayeem964)](https://github.com/jannatulnayeem964/github-readme-stats)
+(![Jannatul's GitHub stats](./profile/stats.svg))
 
