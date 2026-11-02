@@ -36,13 +36,9 @@ Here are some of my most significant projects:
 **Technologies**: Python, LangTest, Sentiment Analysis  
 Check out my team's project repository for the real-world ML project we worked on for Relativity for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! A project focused on **analyzing socioeconomic bias** in AI models, using sentiment analysis combined with factors like **gender**, **names**, and **emotion**. My team and I identified issues with sentiment misclassification, providing insights into areas for improvement in model fairness. 
 
-### [**Inventory Management App**](https://github.com/jannatulnayeem964/inventory-management-app)  
-**Technologies**: React, Firebase, Material UI, Python  
-A **real-time inventory management system** with dynamic, reusable components. It integrates **Firebase** for managing distributed data and automates **stock predictions** to optimize resource management.
-
-### [**Country Confidence Model**](https://github.com/jannatulnayeem964/CountryConfidenceModel)  
-**Technologies**: Python, scikit-learn, Matplotlib  
-Developed machine learning models to predict **confidence in national governments** based on global happiness indices, using **regression** and **decision trees** for data-driven predictions.
+### [**Quizly — AI-Powered Flashcard Platform**](https://github.com/prabhath004/quizly)  
+**Technologies**: Python, FastAPI, React, Supabase
+A **full-stack flashcard and quiz platform** with **AI-powered grading** of student answers. Built the **FastAPI backend** with RESTful API endpoints, integrated **Supabase** for storage and **user authentication**, and developed it with a team using Agile practices.
 
 ---
 
